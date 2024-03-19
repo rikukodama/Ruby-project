@@ -1,0 +1,3 @@
+Bundler.require
+
+puts 'YAY!'
